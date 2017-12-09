@@ -1,0 +1,73 @@
+<html>
+        
+        <head>
+            <title>Writealetterforme</title>
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+            <link rel="stylesheet" href="assets/css/main.css" />
+            <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+            <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        </head>
+        <div class="stickyBack">
+            <a href="javascript:history.back()" class="">&nbsp;&nbsp;&nbsp;&nbsp;Back&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        </div>
+        <body>
+            <!-- Header -->
+            <div class="container">
+                <div id="tnc">
+                    <p>&nbsp;</p>
+                </div>
+                <h3>Terms and Conditions</h3>
+                <p>&#248;&nbsp;The terms and conditions govern the use of the website format, content and the material in it.</p>
+                <p>&#248;&nbsp;“Website” / “WALFM” / “We” refers to <a href="http://www.writealetterforme.com">www.writealetterforme.com</a></p>
+                <p>&#248;&nbsp;“Content” refers to all the format, script, images, other details sent by us in the letters.</p>
+                <p>&#248;&nbsp;“Service” refers to the website content, email, letters and any other form of communication we have with you.</p>
+                <p>&#248;&nbsp;We provide our service on the confirmation that you agree to our terms and conditions mentioned herein. In case you do not, you are requested to cease accessing our service.</p>
+                <p>&#248;&nbsp;All the rights, privileges, obligations and liabilities of you with/and/or WALFM of any transaction or service shall be governed by this agreement. The terms and conditions might be changed from time to time at the sole discretion of WALFM.</p>
+                <hr/>
+                <div id="privacy">
+                    <p>&nbsp;</p>
+                </div>
+                <div>
+                    <p>&nbsp;</p>
+                </div>
+                <h3>Privacy and Data Protection</h3>
+                <p>&#8224;&nbsp;All the data provided by you will be in our database and will be kept confidential. We will use your information to communicate with you to check if our activities are in line with your requirements/expectations/interests.</p>
+                <p>&#8224;&nbsp;The information you provide about any individual/group confirms that you have their consent in doing so.</p>
+                <hr/>
+                <div id="conduct">
+                    <p>&nbsp;</p>
+                </div>
+                <h3>Online Conduct</h3>
+                <p>&#8226;&nbsp;You are solely responsible for the content you provide through our services. You will not post or provide any information that is in violation of rights of any group/individual.</p>
+                <p>&#8226;&nbsp;You will not use WALFM for any kind of promotional campaign/advertising or dealing in any product or service via any form of communication. We will in no way liable/answerable for actions by any person/group arising out of the above mentioned acts.</p>
+                <hr/>
+                <div>
+                    <p>&nbsp;</p>
+                </div>
+                <h3 id="copyright">Copyright</h3>
+                <p>&copy;&nbsp;All the content is sole property of WALFM and restricts any individual/group to reuse the content of WALFM for any use in any form.</p>
+                <hr/>
+                <div>
+                    <p>&nbsp;</p>
+                </div>
+                <h3 id="cancel">Cancellation/Refund of fees</h3>
+                <p>&times;&nbsp;An order placed can be cancelled within 12 hours of the time it is placed. Post that, we will not be able to cancel it.</p>
+                <p>&times;&nbsp;Once an order is confirmed, we will write and ship it. In case the letter is not delivered within 14 working days, we will resend it. In no case there will be a refund if the latter has been shipped from our end. Due to a delay in delivery by our service partners, we do not take its responsibility.</p>
+                <hr/>
+                <div>
+                    <p>&nbsp;</p>
+                </div>
+                <h3 id="indemnity">Indemnity</h3>
+                <p>&curren;&nbsp;You agree to indemnify WALFM and its affiliates, content and successors against any losses, claims, liabilities, costs, expenses that may arise from non conformance of your representation. You shall be solely liable for breach of any country specific or general code.</p>
+                <p>&curren;&nbsp;Suggestions, complaints, disputes are to be first addressed to <a href="mailto:hi@writealetterforme.com">hi@writealetterforme.com</a></p>
+                <p>&curren;&nbsp;In case you do not agree to any above mentioned stipulations, please reconsider and/or refrain from availing our services.</p>
+                <hr/>
+                <div>
+                    <p>&nbsp;</p>
+                </div>
+            </div>
+        </body>
+        
+        </html>
